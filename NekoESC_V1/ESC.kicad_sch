@@ -4753,7 +4753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 158.75 41.91 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 212.09 41.91 0)
 			(effects
 				(font
@@ -5560,7 +5560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 158.75 57.15 0)
 			(effects
 				(font
@@ -6124,7 +6124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -6209,7 +6209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 212.09 57.15 0)
 			(effects
 				(font
@@ -6694,7 +6694,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myLib:DFN8_3x3_MOS_GSD"
+		(property "Footprint" "SMTOPT:DFN-8_3x3_MOS_GSD"
 			(at 264.16 41.91 0)
 			(effects
 				(font

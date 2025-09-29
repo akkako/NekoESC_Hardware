@@ -4,3 +4,4 @@ fp-info-cache
 *-backups/
 *.json
 shapes3D/
+.DS_Store
