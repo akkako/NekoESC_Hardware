@@ -1,0 +1,6 @@
+*.lck
+production/
+fp-info-cache
+*-backups/
+*.json
+shapes3D/
